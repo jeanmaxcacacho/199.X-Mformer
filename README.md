@@ -1,0 +1,2 @@
+
+This repository serves as a workspace to replicate and iterate upon [Mformer](https://github.com/joshnguyen99/moral_axes). We plan to extend the current five binary classifier setup to 10, to measure not just moral foundation but also polarity. This model will be integrated with [TAS-BERT](https://github.com/sysulic/TAS-BERT) to be the aspect and aspect-term extractor for an aspect-level moral values prediction and alignment.
